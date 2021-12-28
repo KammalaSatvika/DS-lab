@@ -1,0 +1,67 @@
+outpu1: Create
+2: Pre-Order Traversal
+3: In-order Traversal
+4: Post-order Traversal
+5: Exit
+Enter your choice1
+45
+
+1: Create
+2: Pre-Order Traversal
+3: In-order Traversal
+4: Post-order Traversal
+5: Exit
+Enter your choice1
+23
+
+1: Create
+2: Pre-Order Traversal
+3: In-order Traversal
+4: Post-order Traversal
+5: Exit
+Enter your choice1
+35
+
+1: Create
+2: Pre-Order Traversal
+3: In-order Traversal
+4: Post-order Traversal
+5: Exit
+Enter your choice1
+12
+
+1: Create
+2: Pre-Order Traversal
+3: In-order Traversal
+4: Post-order Traversal
+5: Exit
+Enter your choice1
+75
+
+1: Create
+2: Pre-Order Traversal
+3: In-order Traversal
+4: Post-order Traversal
+5: Exit
+Enter your choice2
+45 23 12 35 75
+1: Create
+2: Pre-Order Traversal
+3: In-order Traversal
+4: Post-order Traversal
+5: Exit
+Enter your choice3
+12 23 35 45 75
+1: Create
+2: Pre-Order Traversal
+3: In-order Traversal
+4: Post-order Traversal
+5: Exit
+Enter your choice4
+12 35 23 75 45
+1: Create
+2: Pre-Order Traversal
+3: In-order Traversal
+4: Post-order Traversal
+5: Exit
+Enter your choice5
